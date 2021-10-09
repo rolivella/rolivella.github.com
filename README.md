@@ -25,7 +25,7 @@ Syntax highlighted code block
 
 [https://rolivella.github.io/insula/](url) and ![Image](src)
 ```
-
+[Insula](https://rolivella.github.io/insula/)
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
