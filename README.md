@@ -7,11 +7,11 @@
 
 ![insula_1](https://user-images.githubusercontent.com/1679820/217868402-c7fb0024-fa5a-453a-98a4-3cb8e722810c.png)
 
-[EGO (Març 2011)[]
+[EGO (Març 2011)]()
 
 ![EGO](https://user-images.githubusercontent.com/1679820/217874157-fb7082a4-02a6-4354-af77-9398e5cf7e50.jpg)
 
-[Metamorphose (Maig 2011)[]
+[Metamorphose (Maig 2011)]()
 
 ![meta](https://user-images.githubusercontent.com/1679820/217875825-c5972b8a-c6e8-4086-bfe9-12fd11451ef0.jpg)
 
