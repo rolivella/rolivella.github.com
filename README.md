@@ -15,12 +15,11 @@
 
 ![meta](https://user-images.githubusercontent.com/1679820/217875825-c5972b8a-c6e8-4086-bfe9-12fd11451ef0.jpg)
 
-[ASCENT (Maig 2011)[]
+[ASCENT (Maig 2011)]()
 
 ![screenshot3_](https://user-images.githubusercontent.com/1679820/217876054-9569ea41-a625-4904-aa1f-3e52adb55cf4.jpg)
 
 [Esvaïment (2020)](https://rolivella.github.io/esvaiment/)
-
 
 [Eos (2022)](https://rolivella.github.io/esvaiment/)
 
