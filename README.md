@@ -21,7 +21,7 @@
 
 [Esvaïment (2020)]()
 
-![esvaiment](https://user-images.githubusercontent.com/1679820/217877333-c25a15fe-76ec-4c79-bb13-47d4b381a780.png)
+![esvaiment2](https://user-images.githubusercontent.com/1679820/217877886-eddc5874-cfc8-400e-8309-ffa0a81c15de.png)
 
 [Eos (2022)]()
 
