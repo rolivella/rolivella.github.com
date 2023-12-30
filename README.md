@@ -1,6 +1,6 @@
 [Eos (2022) ~ Fotografia astro-mitològica](https://github.com/rolivella/eos)
 
-![eos](https://github.com/rolivella/rolivella.github.com/assets/1679820/1793e02c-e36c-400d-a2f9-9a772250281b)
+![eos](/docs/assets/eos.jpg)
 
 [Esvaïment (2020) ~ Vídeo generatiu](https://github.com/rolivella/esvaiment)
 
