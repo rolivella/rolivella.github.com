@@ -1,4 +1,4 @@
-[Henrietta Lacks (2023) ~ Poema]
+[Henrietta Lacks (2023) ~ Poema](https://twitter.com/roger_olivella/status/1648651966250098691)
 
 ![hela](/docs/assets/hela_poem.jpg)
 
