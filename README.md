@@ -1,4 +1,8 @@
-[Eos (2022) ~ Fotografia astro-mitològica](https://github.com/rolivella/eos)
+[Henrietta Lacks (2023) ~ Poema]
+
+![hela](/docs/assets/hela_poem.jpg)
+
+[Eos (2022) ~ Fotografia](https://github.com/rolivella/eos)
 
 ![eos](/docs/assets/eos.jpg)
 
